@@ -602,6 +602,3 @@ Recommendations:
 
 ---
 
-*Assessment Generated: XX*  
-*Prepared by: Cloud Migration Team*  
-*Confidential - For Internal Use Only*
