@@ -39,7 +39,7 @@
 - **Transparent Communication**: Weekly updates, monthly business reviews
  
 ### 3. Technical Excellence
-- **Modern Architecture**: Microservices, containers, serverless
+- **Modern Architecture**: Containers, serverless
 - **Automation First**: Infrastructure as Code, CI/CD pipelines
 - **Data-Driven Decisions**: Metrics-based optimization
 - **Security by Design**: Zero-trust, least-privilege access
